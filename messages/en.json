@@ -1,0 +1,9 @@
+{
+  "Header": {
+    "blog": "Blog",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "welcome": "Welcome page"
+}
